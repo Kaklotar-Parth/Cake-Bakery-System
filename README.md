@@ -51,12 +51,26 @@ Accessible at:
 
  📂 Folder Structure :
 
+| cakebakerysystem |
+|------|-------------|
+| admin |  # Admin dashboard |
+| includes | # DB connection |
+| css/, js/, images  |  # Frontend assets |
+| *.php |  # Core functionality files |
+| cdatabase.sql |   # MySQL DB file |
+
+
+ 📂 Structure:
+ 
  cakebakerysystem/
 ├── admin/                # Admin dashboard
 ├── includes/             # DB connection
 ├── css/, js/, images/    # Frontend assets
 ├── *.php                 # Core functionality files
 └── database.sql          # MySQL DB file
+
+
+
 
 
  
