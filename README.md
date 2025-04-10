@@ -64,7 +64,7 @@ Accessible at:
 
   <h2 align="center">Responsive Portfolio Website</h2>
 
-  Responsive Portfolio Website using HTML, CSS, and JavaScript.
+  Responsive Cake Bakery System Website using  PHP, MySQL, HTML, CSS, and JavaScript.
 
   <a href="https://onlinecakeshop.free.nf/"><strong>➥ Live Demo</strong></a>
 
