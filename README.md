@@ -61,7 +61,7 @@ Accessible at:
   
   <br />
 
-  <h2 align="center">Responsive Portfolio Website</h2>
+  <h2 align="center">Responsive Cake Bakery Website</h2>
 
   Responsive Cake Bakery System Website using  PHP, MySQL, HTML, CSS, and JavaScript.
 
