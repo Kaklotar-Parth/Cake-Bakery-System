@@ -56,23 +56,10 @@ Accessible at:
  - http://localhost/cakebakerysystem/admin/
 
 
- 📂 Folder Structure :
- 
- cakebakerysystem/
-├── admin/                # Admin dashboard
-├── includes/             # DB connection
-├── css/, js/, images/    # Frontend assets
-├── *.php                 # Core functionality files
-└── database.sql          # MySQL DB file
-
 
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/portfolio-website)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/portfolio-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/portfolio-website?style=social)
-
   <br />
 
   <h2 align="center">Responsive Portfolio Website</h2>
