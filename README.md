@@ -6,11 +6,18 @@ An online cake ordering system built with PHP and MySQL, perfect for bakeries to
 
 📁 Features :
 
-- 🧁 View available cakes with images, descriptions, and prices  
-- 🛒 Add to cart and checkout system  
-- 🔐 User registration/login  
-- 🧾 Order management  
-- 🛠️ Admin dashboard to manage items and categories  
+- 🧁 Display a catalog of cakes with images and pricing
+- 🛒 Add to Cart and Checkout functionality
+- 🔐 User authentication (login/register)
+- 📦 Track and cancel orders
+- 📧 Contact form for user queries
+- 🛠️ Admin dashboard to manage:
+  - Cake categories
+  - Cake details (image, description, price)
+  - Customer orders and users
+  - manage website subscribers
+  - sales report manage
+
 
 ---
 
@@ -50,17 +57,6 @@ Accessible at:
 
 
  📂 Folder Structure :
-
-| cakebakerysystem |
-|------|-------------|
-| admin |  # Admin dashboard |
-| includes | # DB connection |
-| css/, js/, images  |  # Frontend assets |
-| *.php |  # Core functionality files |
-| cdatabase.sql |   # MySQL DB file |
-
-
- 📂 Structure:
  
  cakebakerysystem/
 ├── admin/                # Admin dashboard
@@ -71,6 +67,21 @@ Accessible at:
 
 
 
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/portfolio-website)
+  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/portfolio-website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/portfolio-website?style=social)
+
+  <br />
+
+  <h2 align="center">Responsive Portfolio Website</h2>
+
+  Responsive Portfolio Website using HTML, CSS, and JavaScript.
+
+  <a href="https://onlinecakeshop.free.nf/"><strong>➥ Live Demo</strong></a>
+
+</div>
 
 
  
